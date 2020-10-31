@@ -1,2 +1,2 @@
 # MLAppB81A
-#The demo project
+#The demo projects
